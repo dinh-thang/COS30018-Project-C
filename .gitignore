@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 
 # personal
-Inference_ui/.idea/
+.ui/.idea/
+ui/.idea
 
 # C extensions
 *.so
